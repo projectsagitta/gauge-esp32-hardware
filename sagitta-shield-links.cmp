@@ -1,0 +1,219 @@
+Cmp-Mod V01 Created by PcbNew   date = 2019 March 19, Tuesday 12:45:57
+
+BeginCmp
+TimeStamp = 5C86BF06
+Path = /5C7FCD1A
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB3EB
+Path = /5C80366C
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB3FC
+Path = /5C838301
+Reference = C3;
+ValeurCmp = 0.1uF 0.1%;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C86D4FE
+Path = /5C9178A1
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB41E
+Path = /5C907901
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB42F
+Path = /5C903B52
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB440
+Path = /5C8E4236
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB46C
+Path = /5C896D7B
+Reference = J1;
+ValeurCmp = EADC;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB498
+Path = /5C88C753
+Reference = J2;
+ValeurCmp = RTD;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB4C4
+Path = /5C8CC00E
+Reference = J3;
+ValeurCmp = IADC;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB4E8
+Path = /5CA00AB3
+Reference = J4;
+ValeurCmp = UART2;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB50C
+Path = /5CB8FCE3
+Reference = J5;
+ValeurCmp = I2C;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB534
+Path = /5CAA1042
+Reference = J6;
+ValeurCmp = POWER;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C86BDF9
+Path = /5C784DF9
+Reference = JM1;
+ValeurCmp = Conn_Pocket32;
+IdModule  = stz:Pocket32;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB58E
+Path = /5C8386DC
+Reference = JP1;
+ValeurCmp = 3w or 2/4w;
+IdModule  = Jumper:SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB5A0
+Path = /5C864BA3
+Reference = JP2;
+ValeurCmp =  ;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB5B2
+Path = /5C86F9D9
+Reference = JP3;
+ValeurCmp =  ;
+IdModule  = Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB5C3
+Path = /5C80E230
+Reference = R1;
+ValeurCmp = 430 0.1%;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB5D4
+Path = /5C7F4918
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB5E5
+Path = /5C7F54C9
+Reference = R3;
+ValeurCmp = 4.7k;
+IdModule  = Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB604
+Path = /5C784F8D
+Reference = U1;
+ValeurCmp = ADS1115IDGS;
+IdModule  = Package_SO:TSSOP-10_3x3mm_P0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CDBB64F
+Path = /5C825771
+Reference = U3;
+ValeurCmp = SPIFLASH;
+IdModule  = Package_SO:SO-8_5.3x6.2mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE8A02E
+Path = /5C894C21
+Reference = J7;
+ValeurCmp = POWER;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE8A056
+Path = /5C88DB9C
+Reference = J8;
+ValeurCmp = POWER;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5CE8A07E
+Path = /5C89C3D5
+Reference = J9;
+ValeurCmp = POWER;
+IdModule  = Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C940F46
+Path = /5C7EE639
+Reference = U2;
+ValeurCmp = MAX31865;
+IdModule  = Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm_ThermalVias;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C9413ED
+Path = /5C8AD07C
+Reference = openhardwarelogo1;
+ValeurCmp = Logo_Open_Hardware_Large;
+IdModule  = Symbol:OSHW-Logo_5.7x6mm_SilkScreen;
+EndCmp
+
+EndListe

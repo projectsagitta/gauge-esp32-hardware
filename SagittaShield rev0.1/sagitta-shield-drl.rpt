@@ -1,0 +1,26 @@
+Drill report for /Users/schtangel/Documents/sagitta/sagitta-shield/sagitta-shield.kicad_pcb
+Created on 2019 March 13, Wednesday 16:51:09
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'sagitta-shield-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.20mm  0.008"  (9 holes)
+    T2  0.40mm  0.016"  (20 holes)
+    T3  1.00mm  0.039"  (40 holes)
+    T4  1.20mm  0.047"  (28 holes)
+
+    Total plated holes count 97
+
+
+Drill file 'sagitta-shield-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.00mm  0.118"  (4 holes)
+
+    Total unplated holes count 4

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sagitta-shield-rescue)(type Legacy)(uri ${KIPRJMOD}/sagitta-shield-rescue.lib)(options "")(descr ""))
+)
